@@ -179,7 +179,7 @@ async def check_birthdays(context: ContextTypes.DEFAULT_TYPE):
 # Основная функция
 async def main():
     # Токен вашего бота
-    TOKEN = '7738581806:AAFWv74dqG48tEYcpgZRjnMGytNC9_VDF4I' 
+    TOKEN = '' 
     # ID группы, куда бот будет отправлять поздравления
     global CHAT_ID
     CHAT_ID = '156734752' 
